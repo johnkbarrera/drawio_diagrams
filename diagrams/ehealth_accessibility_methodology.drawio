@@ -340,10 +340,10 @@
           <mxGeometry x="-124" y="-580" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-7" value="Hexagons&lt;div&gt;Clustering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffcccc;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-450" width="120" height="56" as="geometry" />
+          <mxGeometry x="-280" y="-446" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-8" value="Temporal Analysis" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffcccc;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-450" width="120" height="56" as="geometry" />
+          <mxGeometry x="-120" y="-446" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-520" y="-580" width="10" height="190" as="geometry" />
@@ -352,7 +352,7 @@
           <mxGeometry x="170" y="-595" width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-12" value="Administrative&lt;div&gt;areas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="-290" width="128" height="62" as="geometry" />
+          <mxGeometry x="-270" y="-300" width="128" height="62" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-13" value="Health Care&lt;div&gt;Facilities&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-288" y="-740" width="128" height="62" as="geometry" />
