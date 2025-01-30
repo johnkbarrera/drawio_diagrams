@@ -317,15 +317,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_2iP7-DB7mfbflelrQT" name="Página-2">
-    <mxGraphModel dx="1018" dy="1696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2176" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b4zVWBOg2uf0rn4mgQzy-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="-138" width="120" height="60" as="geometry" />
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-1" value="Demography&lt;div&gt;and&lt;/div&gt;&lt;div&gt;SpeedTest&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="-488" width="128" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="b4zVWBOg2uf0rn4mgQzy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-156" width="120" height="60" as="geometry" />
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-2" value="Data&lt;div&gt;Indexing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-887" y="-486" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-3" value="Data&lt;div&gt;Imputation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-709" y="-488" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-4" value="QoS&lt;div&gt;Classification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-580" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-5" value="Service&lt;div&gt;Coverage&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-580" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-6" value="Health Care facilities&lt;div&gt;Analysis by Service&lt;/div&gt;&lt;div&gt;and Category&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="-580" width="164" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
