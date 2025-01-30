@@ -317,48 +317,100 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F_2iP7-DB7mfbflelrQT" name="Página-2">
-    <mxGraphModel dx="2844" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4040" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-1" target="b4zVWBOg2uf0rn4mgQzy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-1" value="Demography&lt;div&gt;and&lt;/div&gt;&lt;div&gt;SpeedTest&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-1069" y="-488" width="128" height="62" as="geometry" />
+          <mxGeometry x="-1080" y="-517" width="128" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-2" target="b4zVWBOg2uf0rn4mgQzy-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-2" value="Data&lt;div&gt;Indexing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffff88;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-887" y="-486" width="120" height="60" as="geometry" />
+          <mxGeometry x="-887" y="-515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-3" target="b4zVWBOg2uf0rn4mgQzy-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-3" value="Data&lt;div&gt;Imputation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffff88;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-709" y="-488" width="120" height="60" as="geometry" />
+          <mxGeometry x="-709" y="-515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-4" target="b4zVWBOg2uf0rn4mgQzy-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-4" value="QoS&lt;div&gt;Classification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-440" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-5" target="b4zVWBOg2uf0rn4mgQzy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-5" value="Service&lt;div&gt;Coverage&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="-266" y="-580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-6" value="Health Care facilities&lt;div&gt;Analysis by Service&lt;/div&gt;&lt;div&gt;and Category&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#d0cee2;strokeColor=#56517e;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-124" y="-580" width="164" height="60" as="geometry" />
+          <mxGeometry x="-100" y="-580" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-7" target="b4zVWBOg2uf0rn4mgQzy-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-7" value="Hexagons&lt;div&gt;Clustering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffcccc;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-446" width="120" height="56" as="geometry" />
+          <mxGeometry x="-440" y="-446" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-8" value="Temporal Analysis" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffcccc;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="-446" width="120" height="56" as="geometry" />
+          <mxGeometry x="-266" y="-446" width="120" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1.026;exitY=0.223;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-9" target="b4zVWBOg2uf0rn4mgQzy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.09;exitY=0.792;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitPerimeter=0;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-9" target="b4zVWBOg2uf0rn4mgQzy-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="-580" width="10" height="190" as="geometry" />
+          <mxGeometry x="-520" y="-601" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-10" value="Results:&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Coverage of e-Health Services by Geographic Zone&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Population Benefited by e-Health Services&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Health Care facilities that can cover specific e-Health Services&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;e-Health Services national coverage map&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Quality of Telecommunications Network Services map&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#eeeeee;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;align=left;spacing=2;spacingRight=18;spacingLeft=8;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-595" width="280" height="220" as="geometry" />
+          <mxGeometry x="160" y="-600" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-12" target="b4zVWBOg2uf0rn4mgQzy-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-18" y="-390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-12" target="b4zVWBOg2uf0rn4mgQzy-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-12" value="Administrative&lt;div&gt;areas&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="-270" y="-300" width="128" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-13" target="b4zVWBOg2uf0rn4mgQzy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-13" value="Health Care&lt;div&gt;Facilities&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-288" y="-740" width="128" height="62" as="geometry" />
+          <mxGeometry x="-270" y="-800" width="128" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-14" target="b4zVWBOg2uf0rn4mgQzy-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b4zVWBOg2uf0rn4mgQzy-14" value="e-Health&lt;div&gt;Services QoS&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;arcSize=14;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-568" y="-740" width="128" height="62" as="geometry" />
+          <mxGeometry x="-837" y="-800" width="128" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.205;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-6" target="b4zVWBOg2uf0rn4mgQzy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-8" target="b4zVWBOg2uf0rn4mgQzy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b4zVWBOg2uf0rn4mgQzy-29" target="b4zVWBOg2uf0rn4mgQzy-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b4zVWBOg2uf0rn4mgQzy-29" value="Ideal QoS&lt;div&gt;vector&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;fillColor=#ffff88;strokeColor=#36393d;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
